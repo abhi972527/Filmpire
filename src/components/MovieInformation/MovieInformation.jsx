@@ -1,7 +1,7 @@
 import React from 'react'
 
 const MovieInformation = () => {
-    console.log("MovieInformation");
+  console.log("MovieInformation");
   return (
     <div>MovieInformation</div>
   )
