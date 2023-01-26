@@ -6,7 +6,7 @@ import useStyles from './styles';
 
 const Movie = ({ movie, i }) => {
     const classes = useStyles();
-    console.log('movie: ', movie, i);
+    // console.log('movie: ', movie, i);
     return (
         /* eslint-disable */
         <Grid item xs={12} sm={6} md={4} lg={3} xl={2} className={classes.movie}>
