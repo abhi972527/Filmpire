@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+api_key = b428187177e38f6cdf029c1dd277e4e9
+
+REACT_APP_TMDB_KEY=b428187177e38f6cdf029c1dd277e4e9
+ESLINT_NO_DEV_ERRORS=true
+
 In the project directory, you can run:
 
 ### `npm start`
