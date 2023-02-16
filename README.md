@@ -4,9 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+api_key = b428187177e38f6cdf029c1dd277e4e9
+
+REACT_APP_TMDB_KEY=b428187177e38f6cdf029c1dd277e4e9
+ESLINT_NO_DEV_ERRORS=true
+
 In the project directory, you can run:
 
 ### `npm start`
+
+In the project directory, to install all required dependencies, you can run:
+
+### `npm install`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
